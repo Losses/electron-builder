@@ -1,5 +1,11 @@
 # app-builder-lib
 
+## 22.12.1
+
+### Patch Changes
+
+- c02ccbb9: fix: replace deprecated `--cache-min` option and use `--prefer-offline`
+
 ## 22.12.0
 
 ### Minor Changes

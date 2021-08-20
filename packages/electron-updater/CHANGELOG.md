@@ -1,5 +1,11 @@
 ## 4.3.0
 
+## 4.4.6
+
+### Patch Changes
+
+- ca0e8454: fix(electron-updater): `null` object error when MacUpdater attempts to log the server port before it is listening
+
 ## 4.4.5
 
 ### Patch Changes
